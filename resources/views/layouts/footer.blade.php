@@ -6,6 +6,6 @@
 <footer class="text-center mt-4">
   <hr>
   <p class="mb-1">Dosen Pengampu: Pak Nasrul, S.Kom., M.Kom.</p>
-  <p class="mb-1">Nama: Ahmad Fathi Ahlul Rayan | NIM: 0110125020 | Prodi: Sistem Informasi</p>
+  <p class="mb-1">Nama: Nursyamsiah Nawawi | NIM: 0110125122 | Prodi: Sistem Informasi</p>
   <small class="text-muted">© 2026 STT Terpadu Nurul Fikri</small>
 </footer>
