@@ -1,0 +1,5 @@
+{
+    "require": {
+        "firefly/filament-blog": "^4.0"
+    }
+}
